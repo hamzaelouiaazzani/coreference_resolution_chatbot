@@ -12,7 +12,7 @@ This notebook presents an application of the pre-trained [COFR system](https://
 #your working folder
 ```
 
-    /content/drive/MyDrive/cofr
+    /content/drive/MyDrive/coreference_resolution_chatbot
     
 
 
