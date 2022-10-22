@@ -1,6 +1,6 @@
 # **Presentation**
 
-This notebook presents an application of the pre-trained [COFR system](https://hal.archives-ouvertes.fr/hal-02476902/document) of [Mr. Bruno Oberle](https://boberle.com/projects/coreference-resolution-with-cofr/) with many modifications to make it more suitable for deployment in a chatbot. Most of the files in the repository are modified to reduce memory consumption and the system's runtime.
+This notebook presents an application of the pre-trained [COFR system](https://hal.archives-ouvertes.fr/hal-02476902/document) of [Mr. Bruno Oberle](https://boberle.com/projects/coreference-resolution-with-cofr/) with many modifications to make it more suitable for deployment in a chatbot. Most of the files in the repository are modified to reduce memory consumption and the system's runtime. To run this repository, open the notebook coreference_resolution.ipynb in the repository.
 
 ## **1.   Preparing environnement and dependencies**
 
