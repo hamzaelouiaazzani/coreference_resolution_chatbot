@@ -8,7 +8,7 @@ This notebook presents an application of the pre-trained [COFR system](https://
 
 
 ```python
-%cd /content/drive/MyDrive/cofr 
+%cd /content/drive/MyDrive/coreference_resolution_chatbot 
 #your working folder
 ```
 
